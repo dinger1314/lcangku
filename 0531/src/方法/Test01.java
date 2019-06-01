@@ -17,6 +17,7 @@ public class Test01 {
 	public static int sum(int n,int m) {//形参 占位
 		System.out.println(m+n);
 		sum1(4, 5);
+		System.out.println();
 		return n+m;
 	}
 	
