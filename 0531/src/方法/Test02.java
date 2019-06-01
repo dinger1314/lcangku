@@ -15,6 +15,7 @@ public class Test02 {
         max(a, b);
         System.out.println(max1(a, b));
         System.out.println(is相等(a, b));
+        System.out.println("");
         is相等1(a, b);
 	}
 	public static void max(int a,int b) {
